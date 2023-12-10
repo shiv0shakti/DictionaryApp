@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/Home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/documentation"
+        android:title="@string/documentation"
+        android:icon="@drawable/ic_documentation"/>
+
+    <item
+        android:id="@+id/Aboutus"
+        android:title="@string/About_Us"
+        android:icon="@drawable/ic_aboutus"
+        />
+
+    <item
+
+        android:id="@+id/Help"
+        android:title="@string/Help"
+        android:icon="@drawable/ic_help"
+        />
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        android:icon="@drawable/ic_logout"/>
+
+
+
+
+</menu>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="Help">help</string>
+    <string name="WELCOME">WELCOME !🧑‍🎓</string>
+    <string name="Login">LOGIN</string>
+    <string name="remember">Remember me</string>
+    <string name="Email">Email</string>
+    <string name="password">password</string>
+    <string name="OpenDrawer">open navigation</string>
+    <string name="closeDrawer">close navigation</string>
+    <string name="powered">Powered By Algonquin</string>
+    <string name="home">Home</string>
+    <string name="documentation">Documentation</string>
+    <string name="About_Us">About Us</string>
+    <string name="logout">LogOut</string>
+    <string name="image_saved">Image Saved To Database</string>
+    <string name="Documentation">This App is created for the educational purpose as a college project for Algonquin College</string>
+    <string name="Text">Enter Text</string>
+    <string name="search">Search</string>
+    <string name="title">Demo Store</string>
+    <string name="by">By</string>
+    <string name="name">Team</string>
+</resources>
